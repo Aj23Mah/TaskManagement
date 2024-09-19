@@ -1,0 +1,11 @@
+
+.bttn {
+  border: none;
+  padding: .4rem 1.3rem;
+  margin: 0 .4rem;
+  cursor: pointer;
+  border-radius: 6px;
+}
+input{
+  padding: .4rem 1.2rem;
+}
