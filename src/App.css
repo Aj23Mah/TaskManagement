@@ -1,11 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 .bttn {
   border: none;
-  padding: .4rem 1.3rem;
-  margin: 0 .4rem;
+  padding: 0.4rem 1.3rem;
+  margin: 0 0.4rem;
   cursor: pointer;
   border-radius: 6px;
-}
-input{
-  padding: .4rem 1.2rem;
+  color: #fff;
 }
